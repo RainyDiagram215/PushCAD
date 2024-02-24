@@ -1,0 +1,5 @@
+C:\Users\CTRL\source\repos\PushCAD\Script\bin\Debug\Script.dll
+C:\Users\CTRL\source\repos\PushCAD\Script\bin\Debug\Script.pdb
+C:\Users\CTRL\source\repos\PushCAD\Script\obj\Debug\Script.csproj.CoreCompileInputs.cache
+C:\Users\CTRL\source\repos\PushCAD\Script\obj\Debug\Script.dll
+C:\Users\CTRL\source\repos\PushCAD\Script\obj\Debug\Script.pdb

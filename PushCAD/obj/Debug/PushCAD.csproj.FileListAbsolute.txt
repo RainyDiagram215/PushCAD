@@ -1,0 +1,12 @@
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\bin\Debug\PushCAD.exe.config
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\bin\Debug\PushCAD.exe
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\bin\Debug\PushCAD.pdb
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.csproj.AssemblyReference.cache
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.Form1.resources
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.Properties.Resources.resources
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.csproj.GenerateResource.cache
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.csproj.CoreCompileInputs.cache
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.exe
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.pdb
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.cad.resources
+C:\Users\CTRL\source\repos\PushCAD\PushCAD\obj\Debug\PushCAD.AboutBox1.resources
